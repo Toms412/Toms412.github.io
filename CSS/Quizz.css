@@ -1,0 +1,63 @@
+
+h3{
+  font-size: 30px;
+}
+article{
+  padding: 28px 28px 18px 28px;
+}
+.consigne{
+  margin-top: 50px;
+  margin-bottom: 100px;
+  color: red;
+  border: 3px red solid;
+  text-align: center;
+  font-size: 22px;
+}
+.reponse{
+  text-align: center;
+  border: solid 3px  #375D81;
+  height: 56px;
+  vertical-align:middle;
+  padding-top: 15px;
+}
+.reponse_logo{
+  text-align: center;
+  border: solid 3px  #375D81;
+  height: 56px;
+  vertical-align:middle;
+
+}
+#faux:hover{
+  background-color: red;
+}
+#vrai:hover{
+  background-color: green;
+}
+
+
+.cache{
+  color:#babdc7;
+}
+.taille{
+  font-size: 20px;
+}
+.reponse_check{
+  font-size: 16px;
+}
+div.reponsefausse{
+  color: red;
+  border-top: #fa2219 3px solid ;
+  border-bottom:  #fa2219 3px solid ;
+}
+div.reponsejuste{
+  color: green;
+  border-top: #008000 3px solid ;
+  border-bottom: #008000 3px solid ;
+}
+.corrige{
+  font-size: 17px;
+}
+.cadre{
+  border: solid white 1px;
+  background-color:#babdde ;
+}
